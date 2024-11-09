@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\services\\cacheproxyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\services\\cacheproxyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\controller\\outputcachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\controller\\outputcachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\consumer\\cacheconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\consumer\\cacheconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\abstractions\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\abstractions\\icacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\services\\inmemorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\services\\inmemorycacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\attributes\\outputcacheactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\attributes\\outputcacheactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\ioc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\services\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\model\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\model\\cachesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\model\\cachepopsubmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\model\\cachepopsubmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|c:\\users\\pc\\desktop\\twolayercache\\twolayercache\\instance1\\instance1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6C9EC0E7-1ABF-41A3-A96B-094618374797}|Instance1\\Instance1.csproj|solutionrelative:instance1\\instance1.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CacheConsumerService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Consumer\\CacheConsumerService.cs",
+              "RelativeDocumentMoniker": "Instance1\\Consumer\\CacheConsumerService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Consumer\\CacheConsumerService.cs",
+              "RelativeToolTip": "Instance1\\Consumer\\CacheConsumerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:17:01.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CacheProxyService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Services\\CacheProxyService.cs",
+              "RelativeDocumentMoniker": "Instance1\\Services\\CacheProxyService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Services\\CacheProxyService.cs",
+              "RelativeToolTip": "Instance1\\Services\\CacheProxyService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:24:11.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOC.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\IOC.cs",
+              "RelativeDocumentMoniker": "Instance1\\IOC.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\IOC.cs",
+              "RelativeToolTip": "Instance1\\IOC.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:25:49.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutputCacheActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Attributes\\OutputCacheActionFilter.cs",
+              "RelativeDocumentMoniker": "Instance1\\Attributes\\OutputCacheActionFilter.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Attributes\\OutputCacheActionFilter.cs",
+              "RelativeToolTip": "Instance1\\Attributes\\OutputCacheActionFilter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T21:00:05.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InMemoryCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Services\\InMemoryCacheService.cs",
+              "RelativeDocumentMoniker": "Instance1\\Services\\InMemoryCacheService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Services\\InMemoryCacheService.cs",
+              "RelativeToolTip": "Instance1\\Services\\InMemoryCacheService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T22:26:16.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICacheService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Abstractions\\ICacheService.cs",
+              "RelativeDocumentMoniker": "Instance1\\Abstractions\\ICacheService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Abstractions\\ICacheService.cs",
+              "RelativeToolTip": "Instance1\\Abstractions\\ICacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:32:20.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OutputCacheController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Controller\\OutputCacheController.cs",
+              "RelativeDocumentMoniker": "Instance1\\Controller\\OutputCacheController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Controller\\OutputCacheController.cs",
+              "RelativeToolTip": "Instance1\\Controller\\OutputCacheController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:58:51.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\appsettings.json",
+              "RelativeDocumentMoniker": "Instance1\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\appsettings.json",
+              "RelativeToolTip": "Instance1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-09T15:27:36.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Services\\RedisService.cs",
+              "RelativeDocumentMoniker": "Instance1\\Services\\RedisService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Services\\RedisService.cs",
+              "RelativeToolTip": "Instance1\\Services\\RedisService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADgv0cAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:24:10.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CacheSettings.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Model\\CacheSettings.cs",
+              "RelativeDocumentMoniker": "Instance1\\Model\\CacheSettings.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Model\\CacheSettings.cs",
+              "RelativeToolTip": "Instance1\\Model\\CacheSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:31:20.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CachePopSubMessage.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Model\\CachePopSubMessage.cs",
+              "RelativeDocumentMoniker": "Instance1\\Model\\CachePopSubMessage.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Model\\CachePopSubMessage.cs",
+              "RelativeToolTip": "Instance1\\Model\\CachePopSubMessage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:26:10.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Program.cs",
+              "RelativeDocumentMoniker": "Instance1\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Program.cs",
+              "RelativeToolTip": "Instance1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T19:54:44.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Instance1.http",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Instance1.http",
+              "RelativeDocumentMoniker": "Instance1\\Instance1.http",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\TwoLayerCache\\TwoLayerCache\\Instance1\\Instance1.http",
+              "RelativeToolTip": "Instance1\\Instance1.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-09T19:58:38.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Instance1.Controller.OutputCacheController",
+    "Method": "OutputCache",
+    "RelativePath": "api/OutputCache/OutputCache",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
