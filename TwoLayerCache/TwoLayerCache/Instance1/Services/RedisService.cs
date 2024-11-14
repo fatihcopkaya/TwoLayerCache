@@ -61,12 +61,12 @@ namespace Instance1.Services
                 AbsoluteExpiration = DateTime.Now.AddMinutes(cacheSettings.ExpiryTime)
             });
 
-            CachePopSubMessage message = new()
+            CachePupSubMessage message = new()
             {
                 Key = key,
                 Value = itemStringRepresentation
             };
-           await PublishAsync(_configuration.GetValue<string>("Redis:Channel"), JsonSerializer.Serialize(message));
+            PublishAsync(_configuration.GetValue<string>("Redis:Channel"), JsonSerializer.Serialize(message));
         }
         private async Task PublishAsync(string channel, string message)
         {

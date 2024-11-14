@@ -23,7 +23,7 @@ namespace Instance1.Consumer
         {
            await _connectionMultiplexer.GetSubscriber().SubscribeAsync(_configuration.GetValue<string>("Redis:Channel"), async (channel, message) =>
             {
-                var redisMessage = JsonSerializer.Deserialize<CachePopSubMessage>(message);
+                var redisMessage = JsonSerializer.Deserialize<CachePupSubMessage>(message);
                 await _inMemoryCache.SetAsync(redisMessage.Key, redisMessage.Value, x =>
                 {
                     x.ExpiryTime = _configuration.GetValue<int>("InMemoryCache:DefaulTtlValue");
